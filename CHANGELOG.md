@@ -8,6 +8,11 @@ Improvements:
   - [Documentation] Updated VIM completion plugin docs including
     `phpactor/ncm-phpactor` fork (mainline is not maintained currently).
 
+Bugfixes:
+
+  - [CodeTransform] Code builder breaks imported name aliases, #452 (not a
+    perfect fix, but should help in the majority of cases, needs a rewrite).
+
 ## 2018-05-01 0.4.0
 
 Features:
