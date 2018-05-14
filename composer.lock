@@ -446,12 +446,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Microsoft/tolerant-php-parser.git",
-                "reference": "31cffdb9ab7c0f0800d52ce49f73fefd50274092"
+                "reference": "7647b60b13afd7e929aeef3de2c35696266c4da5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Microsoft/tolerant-php-parser/zipball/31cffdb9ab7c0f0800d52ce49f73fefd50274092",
-                "reference": "31cffdb9ab7c0f0800d52ce49f73fefd50274092",
+                "url": "https://api.github.com/repos/Microsoft/tolerant-php-parser/zipball/7647b60b13afd7e929aeef3de2c35696266c4da5",
+                "reference": "7647b60b13afd7e929aeef3de2c35696266c4da5",
                 "shasum": ""
             },
             "require": {
@@ -479,7 +479,7 @@
                 }
             ],
             "description": "Tolerant PHP-to-AST parser designed for IDE usage scenarios",
-            "time": "2018-04-22T20:45:12+00:00"
+            "time": "2018-05-12T19:12:14+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -661,12 +661,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpactor/code-builder.git",
-                "reference": "c59075bd9712c5dff0864451e019dbda7f552ee4"
+                "reference": "63e622574b1d43e33ee8f2bc311f2f71ca55fe7b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpactor/code-builder/zipball/c59075bd9712c5dff0864451e019dbda7f552ee4",
-                "reference": "c59075bd9712c5dff0864451e019dbda7f552ee4",
+                "url": "https://api.github.com/repos/phpactor/code-builder/zipball/63e622574b1d43e33ee8f2bc311f2f71ca55fe7b",
+                "reference": "63e622574b1d43e33ee8f2bc311f2f71ca55fe7b",
                 "shasum": ""
             },
             "require": {
@@ -699,7 +699,7 @@
                 }
             ],
             "description": "Generating and modifying source code",
-            "time": "2018-05-09T19:16:15+00:00"
+            "time": "2018-05-10T15:26:36+00:00"
         },
         {
             "name": "phpactor/code-transform",
@@ -1071,12 +1071,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpbench/phpbench.git",
-                "reference": "04a1a1b3a502dec4b57a9dbb5424d50f2caa65f0"
+                "reference": "c9112fb2bf8369bba5f8f49ec82fdf15da64b1bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpbench/phpbench/zipball/04a1a1b3a502dec4b57a9dbb5424d50f2caa65f0",
-                "reference": "04a1a1b3a502dec4b57a9dbb5424d50f2caa65f0",
+                "url": "https://api.github.com/repos/phpbench/phpbench/zipball/c9112fb2bf8369bba5f8f49ec82fdf15da64b1bb",
+                "reference": "c9112fb2bf8369bba5f8f49ec82fdf15da64b1bb",
                 "shasum": ""
             },
             "require": {
@@ -1138,7 +1138,7 @@
                 }
             ],
             "description": "PHP Benchmarking Framework",
-            "time": "2018-04-01T14:23:50+00:00"
+            "time": "2018-05-10T19:49:42+00:00"
         },
         {
             "name": "psr/container",
@@ -2058,12 +2058,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfPHP/PHP-CS-Fixer.git",
-                "reference": "2991ea5763f2113bfbd83c00591f27ddd6a4867c"
+                "reference": "785bbfa4313ba5040283756b7ca450d97c1eaf34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfPHP/PHP-CS-Fixer/zipball/2991ea5763f2113bfbd83c00591f27ddd6a4867c",
-                "reference": "2991ea5763f2113bfbd83c00591f27ddd6a4867c",
+                "url": "https://api.github.com/repos/FriendsOfPHP/PHP-CS-Fixer/zipball/785bbfa4313ba5040283756b7ca450d97c1eaf34",
+                "reference": "785bbfa4313ba5040283756b7ca450d97c1eaf34",
                 "shasum": ""
             },
             "require": {
@@ -2146,7 +2146,7 @@
                 }
             ],
             "description": "A tool to automatically fix PHP code style",
-            "time": "2018-05-08T21:35:22+00:00"
+            "time": "2018-05-11T09:10:45+00:00"
         },
         {
             "name": "myclabs/deep-copy",
@@ -2905,12 +2905,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "bf040932271d851d3e94145bc09dd10e2db9b8fe"
+                "reference": "30218e30c0763cebbd626ba22770493b400cc8db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/bf040932271d851d3e94145bc09dd10e2db9b8fe",
-                "reference": "bf040932271d851d3e94145bc09dd10e2db9b8fe",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/30218e30c0763cebbd626ba22770493b400cc8db",
+                "reference": "30218e30c0763cebbd626ba22770493b400cc8db",
                 "shasum": ""
             },
             "require": {
@@ -2981,7 +2981,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2018-05-06T12:34:25+00:00"
+            "time": "2018-05-11T07:20:52+00:00"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
