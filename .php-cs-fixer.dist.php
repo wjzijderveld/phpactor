@@ -32,7 +32,6 @@ return (new Config())
                 'trait_import' => 'only_if_meta',
             ],
         ],
-        'ordered_class_elements' => true,
         'no_empty_phpdoc' => true,
         'phpdoc_trim' => true,
         'array_syntax' => ['syntax' => 'short'],
